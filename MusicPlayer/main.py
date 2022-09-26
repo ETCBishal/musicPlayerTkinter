@@ -1,3 +1,11 @@
+'''
+Developer: Bishal jaiswal
+copyright(c), 2022
+fullDate: Monday, September 26, 2022
+AppName: Music Player -onlyFor[ MP3 ]
+
+'''
+
 from tkinter import *
 from pygame import mixer
 from tkinter import filedialog, messagebox
